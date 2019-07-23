@@ -1,0 +1,122 @@
+.title {
+  color: #02ccba;
+}
+
+
+header {
+  height:70px;
+  width:100%;
+  background-color:rgba(34, 49, 52, 0.5);
+  padding:40px 20px;
+  
+
+}
+body {
+width:100%;
+background-image:url(https://cdn.pixabay.com/photo/2019/07/10/23/34/beach-chair-4329761__480.jpg);
+background-size: cover;
+}
+.logo {
+  width:200px;
+  float:left;
+  padding-left: 40px;
+
+}
+.header-right {
+  float:right;
+
+
+}
+.header-right a {
+  color:white;
+  display:block;
+  margin:5px 5px;
+  line-height:60px;
+  padding:20px;
+
+}
+.header-right a:hover {
+  background-color: rgba(117, 190, 218, 0.5);
+}
+.header-left h1 {
+  float:left;
+  padding-left:20px;
+  font-weight: normal;
+}
+.section {
+  float:left
+}
+
+
+.top-wrapper {
+  height:800px;
+  padding:180px 0 100px 0;
+
+}
+.container {
+  text-align:center;
+  padding-top:0.3px;
+  width:100%;
+}
+.container h1 {
+  font-size:60px;
+  font-family:serif;
+  letter-spacing: 3px;
+}
+.container p {
+  font-size:25px;
+  padding-top:25px;
+}
+.text-contents p {
+  font-size:20px;
+}
+.heading a {
+  opacity:0.6;
+  font-size: 15px;
+
+}
+.heading a1 {
+  color:yellow;
+  font-size: 15px;
+}
+.heading h2 {
+  font-size:35px;
+}
+.heading h3 {
+  font-size:35px;
+}
+.lesson-wrapper {
+  height: 500px;
+  text-align: center;
+  width:100%;
+}
+.lesson {
+  float:left;
+  width:33.3%;
+  color:white;
+}
+.lesson-icon {
+  text-align: center;
+  width:100%;
+}
+.lesson-icon img {
+  width:100px;
+}
+.lesson-icon p {
+font-size:25px;
+}
+.txt-contents  {
+  opacity:0.7;
+  font-size:15px;
+  text-align: center;
+}
+.message {
+  position:relative;
+  top:7px;
+  box-shadow:none;
+}
+.message {
+  padding:15px 40px;
+  background-color: yellow;
+  box-shadow: 0 7px #1d7940;
+}
